@@ -1,2 +1,3 @@
-# myVim
-vimrc conf
+# macConf
+
+	all about mac conf
